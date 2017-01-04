@@ -6,8 +6,6 @@ using IdentityModel;
 using IdentityServer4.AspNetIdentity;
 using IdentityServer4.Configuration;
 using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Identity;
-using System;
 
 namespace Microsoft.Extensions.DependencyInjection
 {
